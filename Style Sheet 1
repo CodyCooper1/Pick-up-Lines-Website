@@ -1,0 +1,21 @@
+body {
+  background: #34526f;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  font-size: 65px;
+}
+a {
+  color: lightsteelblue;
+  text-align: right;
+  
+}
+.img {
+  border-radius: 190px;
+  border: solid white;
+}
