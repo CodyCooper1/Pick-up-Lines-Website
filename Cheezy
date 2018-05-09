@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+  </head>
+  <body>
+    
+    <!--The style shee for the pages-->
+    <link rel="stylesheet" href="styleSheet.css">
+    
+    <!-- Navigation bar -->
+    <a class="navlinks" href="Categories.html">Categories</a>
+    <a class="navlinks" href="index.html">Homepage</a>
+    
+    <!-- Title for cheezy pickup line page -->
+    <h1>Cheezy Pickup lines</h1>
+    <p>Cheezy themed pickup lines.</p>
+  </body>
+</html>
