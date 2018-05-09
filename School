@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+  </head>
+  <body>
+    
+    <!--The style shee for the pages-->
+    <link rel="stylesheet" href="styleSheet.css">
+    
+    <!-- Navigation bar -->
+    <a class="navlinks" href="Categories.html">Categories</a>
+    <a class="navlinks" href="index.html">Homepage</a>
+    
+    <!-- Title for school pickup line page -->
+    <h1>School</h1>
+      <p>School themed pickup lines.</p>
+      <img src="school-books-clip-art-emmaus_5821911e8c22d.jpg" alt="picture of text books for school">
+    <!--The picture details credit-->
+      <p>commons.wikimedia.org CC-BY-NC</p>
+  </body>
+</html>
