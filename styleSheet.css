@@ -1,12 +1,13 @@
 body {
     background:white;
-}
+  }
 
   p {
     text-align: center;
     color: black;
     font-size: 20px
   }
+
   h1 {
     font-weight: bold;
     text-align: center;
@@ -15,26 +16,27 @@ body {
     margin-right: auto;
     font-family:cursive;
   }
+
   a {
     color: darkred;
     text-align: right;
 
   }
+
   .img {
     border-radius: 190px;
     border: solid white;
     height: 50px;
-
   }
-  .navigation-bar
-  {
+
+  .navigation-bar{
     padding: 10px;
     border-style:dashed;
     border-bottom: 4px;
     background: #000;
   }
-  .navlinks
-  {
+
+  .navlinks{
     text-decoration: underline; 
     Margin-Left: 75px;
     Font-size: 35px;
