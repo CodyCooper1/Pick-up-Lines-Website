@@ -53,4 +53,5 @@ body {
     border-radius: 190px;
     border: solid white;
     height: 100px;
+    float: left;
   }
