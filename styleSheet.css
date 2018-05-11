@@ -47,6 +47,7 @@ body {
   .credittext {
     text-align: left;
     font-size:15;
+    float: left;
   }
 
 .pictures {
