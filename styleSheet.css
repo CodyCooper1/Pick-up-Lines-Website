@@ -23,7 +23,7 @@ body {
 
   }
 
-  .NavImg {
+  .img {
     border-radius: 190px;
     border: solid white;
     height: 50px;
@@ -49,8 +49,8 @@ body {
     font-size:15;
   }
 
-.img {
+.pictures {
     border-radius: 190px;
     border: solid white;
-    height: 50px;
+    height: 100px;
   }
