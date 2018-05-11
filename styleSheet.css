@@ -47,6 +47,7 @@ body {
   .credittext {
     text-align: left;
     font-size:15;
+    float: left;
   }
 
 .pictures {
@@ -59,8 +60,6 @@ body {
     float: right;
     border: 2px solid black;
     border-left: 10px;
-  }
-
-.leftwrapper {
     float: left;
   }
+
