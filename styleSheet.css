@@ -57,6 +57,7 @@ body {
     float: left;
   }
 
-ol {
-    border-left: 20px;
+.wrapper {
+    float: right;
+    border: 2px solid black;
 }
