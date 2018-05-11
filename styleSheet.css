@@ -23,7 +23,7 @@ body {
 
   }
 
-  .img {
+  .NavImg {
     border-radius: 190px;
     border: solid white;
     height: 50px;
@@ -47,4 +47,10 @@ body {
   .credittext {
     text-align: left;
     font-size:15;
+  }
+
+.img {
+    border-radius: 190px;
+    border: solid white;
+    height: 50px;
   }
