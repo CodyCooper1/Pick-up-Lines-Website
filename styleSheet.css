@@ -55,3 +55,7 @@ body {
     height: 100px;
     float: left;
   }
+
+ul {
+    border-left: 20px;
+}
