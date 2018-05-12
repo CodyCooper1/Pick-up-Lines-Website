@@ -72,7 +72,7 @@ body {
     border-left: 20px double maroon;
     padding-left: 20px;
     max-width: 24%;
-    height: 540px;
+    height: 410px;
   }
 
 #content {
@@ -83,5 +83,4 @@ body {
 
 ol li {
     font-size: 18px;
-    font-family: fantasy;
 }
