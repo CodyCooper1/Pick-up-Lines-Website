@@ -34,6 +34,8 @@ body {
     border-style:dashed;
     border-bottom: 4px;
     background: #000;
+    position: fixed;
+      
   }
 
   .navlinks{
