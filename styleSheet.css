@@ -43,7 +43,8 @@ body {
     color: #8B0000;
     border-right: 10px;
   }
-  
+
+  /* from .credittext to ol li is chandra's work for design on css, so far anyway*/
   .credittext {
     text-align: center;
     font-size:11;
@@ -75,13 +76,14 @@ body {
     max-width: 24%;
     height: 400px;
   }
-
+/*
 #content {
     max-width: 1000px;
     margin: 0 auto;
     height: 400px;
 }
 
+/*this part is for designing how the lists of pickuplines look like, font, family, color, etc.*/
 ol li {
     font-size: 18px;
 }
