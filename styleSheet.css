@@ -3,12 +3,14 @@ body {
   }
 
   p {
+    font-family:'Raleway', fantasy;
     text-align: center;
     color: black;
     font-size: 20px
   }
 
   h1 {
+    font-family:'Raleway', cursive;
     font-weight: bold;
     text-align: center;
     color: maroon;
@@ -20,7 +22,6 @@ body {
   a {
     color: darkred;
     text-align: right;
-
   }
 
   .img {
@@ -50,6 +51,7 @@ body {
     font-size:11;
     margin: 0 auto;
     width: 178px;
+    font-family:'Raleway', fantasy;
   }
 
 .pictures {
@@ -86,4 +88,5 @@ body {
 /*this part is for designing how the lists of pickuplines look like, font, family, color, etc.*/
 ol li {
     font-size: 18px;
+    font-family:'Raleway', fantasy;
 }
