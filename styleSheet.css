@@ -1,5 +1,8 @@
 body {
     background-image:url("background-2579719_960_720.jpg");
+    opacity: 0.5;
+    max-width: 763px;
+    max-height: 588px;
   }
 
   p {
