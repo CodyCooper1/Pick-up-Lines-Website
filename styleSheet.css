@@ -39,6 +39,7 @@ body {
     border-style:dashed;
     border-bottom: 4px;
     background: #000;
+    opacity: 0.5;
   }
 
   .navlinks{
