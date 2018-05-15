@@ -26,7 +26,7 @@ body {
     text-align: right;
   }
 
-  #img {
+  .img {
     opacity: 1;
     border-radius: 190px;
     border: solid white;
@@ -38,7 +38,6 @@ body {
     border-style:double white;
     border-bottom: 4px;
     background: #000;
-    opacity: 0.5;
   }
 
   .navlinks{
