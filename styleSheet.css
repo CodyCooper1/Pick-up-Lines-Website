@@ -99,3 +99,15 @@ ol li {
     font-size: 18px;
     font-family:'Raleway', fantasy;
 }
+
+.category-links {
+    Margin-Left: 20px;
+    Font-size: 35px;
+    color: #8B0000;
+    border-right: 10px;
+    border-style: double;
+    border-radius: 10px;
+    width: 20px;
+    font-family:'Raleway', cursive;
+}
+    
