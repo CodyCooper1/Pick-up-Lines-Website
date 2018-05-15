@@ -27,7 +27,7 @@ body {
     text-align: right;
   }
 
-  .img {
+  #img {
     opacity: 1;
     border-radius: 190px;
     border: solid white;
