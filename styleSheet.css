@@ -21,6 +21,7 @@ body {
   }
 
   a {
+    font-family:'Raleway', cursive;
     color: darkred;
     text-align: right;
   }
@@ -45,6 +46,10 @@ body {
     Font-size: 35px;
     color: #8B0000;
     border-right: 10px;
+    border-style: double;
+    border-radius: 10px;
+    width: 20px;
+    font-family:'Raleway', cursive;
   }
 
   /* from .credittext to ol li is chandra's work for design on css, so far anyway*/
