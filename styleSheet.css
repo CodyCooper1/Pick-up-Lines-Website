@@ -10,6 +10,7 @@ body {
     text-align: center;
     color: black;
     font-size: 20px
+    opacity: 1;
   }
 
   h1 {
@@ -20,6 +21,7 @@ body {
     font-size: 65px;
     margin-right: auto;
     font-family:cursive;
+    opacity: 1;
   }
 
   a {
@@ -28,6 +30,7 @@ body {
   }
 
   .img {
+    opacity: 1;
     border-radius: 190px;
     border: solid white;
     height: 50px;
@@ -46,6 +49,7 @@ body {
     Font-size: 35px;
     color: #8B0000;
     border-right: 10px;
+    opacity: 1;
   }
 
   /* from .credittext to ol li is chandra's work for design on css, so far anyway*/
@@ -55,6 +59,7 @@ body {
     margin: 0 auto;
     width: 178px;
     font-family:'Raleway', fantasy;
+    opacity: 1;
   }
 
 .pictures {
@@ -63,6 +68,7 @@ body {
     height: 202px;
     margin-top: 31px;
     max-width: 200;
+    opacity: 1;
   }
 
 .right-wrapper {
@@ -72,6 +78,7 @@ body {
     padding-right: 20px;
     max-width: 70%;
     height: 400px;
+    opacity: 1;
   }
 
 .left-wrapper {
@@ -81,16 +88,19 @@ body {
     padding-left: 20px;
     max-width: 24%;
     height: 400px;
+    opacity: 1;
   }
 
 #content {
     max-width: 1200px;
     margin: 0 auto;
     height: 400px;
+    opacity: 1;
 }
 
 /*this part is for designing how the lists of pickuplines look like, font, family, color, etc.*/
 ol li {
     font-size: 18px;
     font-family:'Raleway', fantasy;
+    opacity: 1;
 }
