@@ -1,6 +1,4 @@
 body {
-    background-image:url("background-2579719_960_720.mdp");
-    background-repeat: no-repeat;
   }
 
   p {
@@ -27,7 +25,6 @@ body {
   }
 
   .img {
-    opacity: 1;
     border-radius: 190px;
     border: solid white;
     height: 50px;
@@ -35,16 +32,20 @@ body {
 
   .navigation-bar{
     padding: 10px;
-    border-style:double white;
-    border-bottom: 4px;
+    border-style: double ;
+    border-width: 20px;
     background: #000;
+    border-radius: 30px;
+    margin-top: 15px;
+    rgba: 0,0,0,.7;
   }
 
   .navlinks{
     text-decoration: underline; 
-    Margin-Left: 20px;
+    Margin-Left: 130px;
     Font-size: 35px;
-    color: #8B0000;
+    background-color: #8B0000;
+    color: #000;
     border-style: double;
     border-radius: 10px;
     width: 20px;
@@ -53,14 +54,14 @@ body {
 
   /* from .credittext to ol li is chandra's work for design on css, so far anyway*/
   .credittext {
-    text-align: center;
+    text-align: left;
     font-size: 11px;
     margin: 0 auto;
     width: 178px;
     font-family:'Raleway', fantasy;
   }
 
-.pictures {
+  .pictures {
     border-radius: 190px;
     border: solid white;
     height: 202px;
@@ -68,7 +69,7 @@ body {
     max-width: 200;
   }
 
-.right-wrapper {
+  .right-wrapper {
     float: right;
     border: 2px solid white;
     border-right: 20px double maroon;
@@ -98,4 +99,17 @@ ol li {
     font-size: 18px;
     font-family:'Raleway', fantasy;
 }
-    
+
+
+.category-links {
+    Margin-Left: 20px;
+    Font-size: 35px;
+    color: #8B0000;
+    border-style: double;
+    border-radius: 10px;
+    width: ;
+    font-family:'Raleway', cursive;
+}
+.page-header {
+  text-shadow; 5px 4px black;
+}
