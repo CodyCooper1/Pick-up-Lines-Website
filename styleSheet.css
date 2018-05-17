@@ -37,7 +37,7 @@ body {
     background: #000;
     border-radius: 30px;
     margin-top: 15px;
-    rgba: 0,0,0,.7;
+    rgba: 0,0,0,.;
   }
 
   .navlinks{
@@ -112,4 +112,8 @@ ol li {
 }
 .page-header {
   text-shadow; 5px 4px black;
+}
+a:hover {
+    color: #000;
+    background: #fff;
 }
