@@ -1,6 +1,15 @@
 body {
-  background-image: url(Website Background.jpg)
+  background-image: url(https://github.com/CodyCooper1/codycooper1.github.io/blob/master/Website%20background.jpg?raw=true);
+  background-repeat: no-repeat;]
+  background-size: 100% 100%;
   }
+.bg {
+  background-image: url(https://github.com/CodyCooper1/codycooper1.github.io/blob/master/Website%20background.jpg?raw=true);
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%; 
+}
 
   p {
     font-family:'Raleway', fantasy;
@@ -38,7 +47,8 @@ body {
     background: #000;
     border-radius: 30px;
     margin-top: 15px;
-    rgba: 0,0,0,.;
+    width: 1300px;
+    rgba: 0,0,0,;
   }
 
   .navlinks{
@@ -100,7 +110,11 @@ ol li {
     font-size: 18px;
     font-family:'Raleway', fantasy;
 }
-
+.page-desc {
+    border: solid #8B0000;
+    width: 100%;
+    text-align: center;
+}
 
 .category-links {
     Margin-Left: 20px;
@@ -108,11 +122,10 @@ ol li {
     color: #8B0000;
     border-style: double;
     border-radius: 10px;
-    width: ;
     font-family:'Raleway', cursive;
 }
 .page-header {
-  text-shadow; 5px 4px black;
+  text-shadow: 5px 4px #000;
 }
 a:hover {
     color: #000;
